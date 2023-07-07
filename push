@@ -1,5 +1,5 @@
 #!/bin/bash
-echo'file name'
+echo 'file name'
 read x
 chmod +x ${x}
 git add .
