@@ -1,0 +1,7 @@
+#!/bin/bash
+echo " file name:"
+read x
+chmod +x ${x}
+git add .
+git commit -m "shell permmtion"
+git push
